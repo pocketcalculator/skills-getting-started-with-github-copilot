@@ -82,6 +82,12 @@ section h3 {
   list-style-position: inside;
   padding-left: 0;
   margin-top: -8px;
+  list-style-type: none;
+}
+
+.delete-icon {
+  cursor: pointer;
+  margin-left: 10px;
 }
 
 .form-group {
